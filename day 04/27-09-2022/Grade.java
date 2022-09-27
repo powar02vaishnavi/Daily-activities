@@ -1,6 +1,5 @@
-import java.util.*;
-
 /*WAP to accept Student's Name, Marks of 5 subject, Calculate the Percentage and display the grade*/
+import java.util.*;
 public class Grade {
 
 	public static void main(String[] args) {
