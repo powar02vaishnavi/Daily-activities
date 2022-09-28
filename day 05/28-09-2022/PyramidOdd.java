@@ -17,7 +17,7 @@ public class PyramidOdd {
         System.out.print("  ");
       }
 
-      while (k != 2 * i - 1) {
+      while (k != 2 * i - 1) {         //Logic of odd no of stars
         System.out.print("* ");
         ++k;
       }
