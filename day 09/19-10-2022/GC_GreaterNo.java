@@ -1,3 +1,4 @@
+//WAP to find greatest number out of two and implement Garbge Collection method
 import java.util.Scanner;
 
 public class GC_GreaterNo {
